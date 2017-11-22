@@ -1,4 +1,4 @@
-## Uputsvo za instalaciju alata potrebnih za predmet Soft Computing (2016)
+## Uputsvo za instalaciju alata potrebnih za predmet Soft Computing
 
 
 Alati koji će biti korišćeni na ovom kursu:
